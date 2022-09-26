@@ -46,5 +46,5 @@ public class CommonController {
 
 		log.info("post custom logout");
 	}
-
+// 이것은 pull 테스트 
 }
